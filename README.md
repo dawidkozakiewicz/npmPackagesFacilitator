@@ -7,4 +7,4 @@ Open script.js file and paste your own dependencies in first line. Example: let 
     "passport-google-oauth": "^1.0.0",
     "pug": "^2.0.3"
   }
-Save and open html file in browser. You can see console command ready for install latest versions of packages.
+Save and open html file in browser. You can see the console command ready for install the latest versions of packages.
